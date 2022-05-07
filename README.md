@@ -4,7 +4,8 @@
 
 Contact Info: 
 
-<a href='https://mail.google.com/' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/barrettm51@gmail.com-100000?style=flat&logo=Gmail&logoColor=EA4335&labelColor=FFFFFF&color=black'/></a>
+barrettm51@gmail.com 
+
 <a href='https://www.linkedin.com/in/barrett-nelson51/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=LinkedIn&logoColor=0A66C2&labelColor=black&color=black'/></a>
 
 Tech Stack:
