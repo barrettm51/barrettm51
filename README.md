@@ -6,7 +6,7 @@
 
 Email: barrettm51@gmail.com 
 
-LinkedIn: linkedin.com/in/barrett-nelson51
+<a href='https://www.linkedin.com/in/barrett-nelson51/'>LinkedIn Profile</a>
 
 **Tech Stack:**
 
