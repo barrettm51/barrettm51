@@ -23,7 +23,6 @@ Email: barrettm51@gmail.com
 <a href='https://www.prisma.io/' target="_blank"><img alt='Prisma' src='https://img.shields.io/badge/Prisma-100000?style=flat&logo=Prisma&logoColor=FFFFFF&labelColor=000000&color=black'/></a>
 <a href='https://www.postgresql.org/' target="_blank"><img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-100000?style=flat&logo=PostgreSQL&logoColor=white&labelColor=black&color=black'/></a>
 
-![Busy Coding](animation_500_kxa883sd.gif)
 
 
 
