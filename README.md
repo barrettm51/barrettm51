@@ -4,11 +4,9 @@
 
 **Contact Info:** 
 
-Website: <a href="https://barrettnelson.me/" >barrettnelson.me</a>
-
 Email: barrettm51@gmail.com 
 
-<a href='linkedin.com/in/barrett-nelson51' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=social&logo=LinkedIn&logoColor=0A66C2&labelColor=black&color=black'/></a>
+LinkedIn: linkedin.com/in/barrett-nelson51
 
 **Tech Stack:**
 
